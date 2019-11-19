@@ -18,10 +18,6 @@ class Dog
  
   def breed
     @breed
-    
-    if breed == nil 
-      
-    end
   end
 
 end
